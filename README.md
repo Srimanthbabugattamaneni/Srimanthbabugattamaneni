@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋 I'm Srimanth Gattamaneni</h1>
+<h1 align="center"> I'm Srimanth Gattamaneni</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/srimanth-gattamaneni"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
