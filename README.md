@@ -12,10 +12,6 @@
 I’m a **Software Engineer** and **M.S. Information Systems** candidate at Northeastern University, with 3+ years of experience designing, building, and deploying **AI-powered, cloud-native software** in banking and financial services.  
 I specialize in **full-stack development**, **cloud automation**, and **LLM-driven intelligent systems** that improve reliability, compliance, and business outcomes.
 
-- 🌎 Currently building data-driven banking systems at **Simmons Bank (USA)**  
-- 🧠 Passionate about **Generative AI, Cloud Infrastructure, and Intelligent Automation**  
-- ☁️ Experienced with **AWS, GCP, and Azure** for scalable, production-ready deployments  
-- 🚀 Always learning — exploring **RAG pipelines**, **agentic AI**, and **MLOps automation**
 
 ---
 
